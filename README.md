@@ -57,7 +57,7 @@ idf.py build flash
 
 ### 2. Build & Install WifiRouter App
 ```bash
-git clone https://github.com/LiamLiamliam123/Hello-World-Flipper-Zero
+git clone https://github.com/LiamLiamliam123/Wifi-Router-Flipper-Zero
 cd Hello-World-Flipper-Zero
 ufbt                    # builds dist/wifirouter.fap
 ufbt launch             # installs & runs on connected Flipper Zero
@@ -106,7 +106,7 @@ ufbt launch             # installs & runs on connected Flipper Zero
 
 ```bash
 # Prerequisites: ufbt, arm-none-eabi toolchain (installed via ufbt)
-git clone https://github.com/LiamLiamliam123/Hello-World-Flipper-Zero
+git clone https://github.com/LiamLiamliam123/Wifi-Router-Flipper-Zero
 cd Hello-World-Flipper-Zero
 ufbt                    # debug build → dist/wifirouter.fap
 ufbt release            # release build
